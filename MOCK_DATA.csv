@@ -1,0 +1,53 @@
+id_producto,producto,categoria,proveedor,stock,precio_compra,precio_venta,fecha_actualizacion
+1,Laptop,,,223.0,2194342.0,1432238.0,01/01/2024
+2,Laptop,Oficina,techsupply,264.0,2084216.0,275868.0,07/01/2024
+3,Audífonos,Accesorios,,310.0,508525.0,307660.0,13/01/2024
+4,Teclado,ELECTRÓNICA,techsupply,280.0,2637101.0,409575.0,19/01/2024
+5,Impresora,Electrónica,TechSupply,285.0,1491317.0,1486317.0,25/01/2024
+6,Mouse,electrónica,TechSupply,207.0,2226968.0,3461947.0,31/01/2024
+7,Laptop,ELECTRÓNICA,Global Import,159.0,1723721.0,479839.0,06/02/2024
+8,Audífonos,,,-1.0,,907904.0,12/02/2024
+9,Impresora,ELECTRÓNICA,,333.0,2259685.0,641495.0,18/02/2024
+10,Impresora,,TechSupply,373.0,2123872.0,720225.0,24/02/2024
+11,Impresora,Accesorios,techsupply,72.0,2337930.0,3184903.0,01/03/2024
+12,Tablet,Electrónica,,404.0,437953.0,1272174.0,07/03/2024
+13,Teclado,,TechSupply,56.0,621588.0,1193817.0,13/03/2024   
+14,Laptop,electrónica,Global Import,126.0,2145052.0,875692.0,19/03/2024
+15,Audífonos,ELECTRÓNICA,,,1487005.0,2315880.0,25/03/2024
+16,Impresora,,,231.0,2266360.0,1450672.0,31/03/2024
+17,Mouse,Oficina,Distrimayor,36.0,317719.0,2831985.0,06/04/2024
+18,Mouse,,techsupply,83.0,1614079.0,793120.0,12/04/2024
+19,Cámara Web,electrónica,Global Import,396.0,1142676.0,2996785.0,18/04/2024
+20,Impresora,Accesorios,,290.0,1376431.0,2300086.0,24/04/2024
+21,Mouse,Electrónica,Distrimayor,322.0,1815834.0,447502.0,30/04/2024
+22,Laptop,Oficina,Distrimayor,289.0,1511842.0,1583900.0,06/05/2024
+23,Teclado,electrónica,TechSupply,98.0,1624183.0,3283416.0,12/05/2024
+24,Teclado,,Distrimayor,,1464209.0,3508404.0,18/05/2024
+25,Audífonos,electrónica,techsupply,282.0,1232776.0,1777675.0,24/05/2024
+26,Mouse,ELECTRÓNICA,Distrimayor,,2317927.0,1834968.0,30/05/2024
+27,Monitor,electrónica,techsupply,119.0,46487.0,3491351.0,05/06/2024
+28,Mouse,Electrónica,techsupply,416.0,,2237053.0,11/06/2024
+29,Cámara Web,Electrónica,TechSupply,347.0,1700870.0,139325.0,17/06/2024
+30,Monitor,electrónica,Global Import,17.0,2151375.0,3469757.0,23/06/2024
+31,Cámara Web,ELECTRÓNICA,techsupply,57.0,1801098.0,954537.0,29/06/2024
+32,Impresora,Oficina,Distrimayor,137.0,2482128.0,2201337.0,05/07/2024
+33,Impresora,,Distrimayor,475.0,2877634.0,641468.0,11/07/2024
+34,Audífonos,Oficina,techsupply,147.0,,143233.0,17/07/2024
+35,Cámara Web,ELECTRÓNICA,Distrimayor,,689779.0,1193926.0,23/07/2024
+36,Audífonos,Accesorios,,219.0,1276555.0,2969176.0,29/07/2024
+37,Laptop,Electrónica,TechSupply,489.0,870910.0,1065667.0,04/08/2024
+38,Mouse,Accesorios,Distrimayor,497.0,1848701.0,848068.0,10/08/2024
+39,Monitor,,TechSupply,444.0,2736439.0,819997.0,16/08/2024
+40,Monitor,ELECTRÓNICA,techsupply,456.0,425957.0,1964932.0,22/08/2024
+41,Audífonos,,techsupply,303.0,311376.0,3707424.0,28/08/2024
+42,Mouse,Accesorios,techsupply,98.0,775486.0,1752273.0,03/09/2024
+43,Teclado,ELECTRÓNICA,TechSupply,98.0,2181026.0,2124401.0,09/09/2024
+44,Monitor,Oficina,Distrimayor,429.0,1782959.0,3272492.0,15/09/2024
+45,Teclado,Oficina,,33.0,315616.0,2040239.0,21/09/2024
+46,Mouse,Accesorios,,429.0,2757064.0,713192.0,27/09/2024
+47,Teclado,Accesorios,,192.0,2372353.0,1148971.0,03/10/2024
+48,Laptop,Electrónica,Distrimayor,128.0,78838.0,1188111.0,09/10/2024
+49,Cámara Web,Oficina,Distrimayor,61.0,,1518849.0,15/10/2024
+50,Impresora,Electrónica,TechSupply,385.0,2316028.0,1630396.0,21/10/2024
+7,Laptop,ELECTRÓNICA,Global Import,159.0,1723721.0,479839.0,06/02/2024
+31,Cámara Web,ELECTRÓNICA,techsupply,57.0,1801098.0,954537.0,29/06/2024

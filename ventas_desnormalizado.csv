@@ -1,0 +1,47 @@
+id_venta,fecha_venta,cliente_nombre,cliente_email,cliente_tipo,sucursal,ciudad_sucursal,vendedor,producto,categoria_producto,precio_unitario,cantidad,descuento_pct,metodo_pago,total_venta
+V0001,03-12-2024,Luis Ramirez,luis.r@mail.com,Individual,sucursal sur,Guadalajara,Mariana L.,Laptop Pro 15,Electronica,18500.0,1,0.0,TARJETA,18500.0
+V0002,2024-04-21,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Centro,CDMX,Jorge P.,Escritorio Ajustable,Muebles,4500.0,1,0.1,TARJETA,4050.0
+V0003,08-17-2024,Ana Torres,ana.torres@mail.com,Empresarial,Sucursal Norte ,Monterrey,Diego R.,Monitor 24 4K,Electronica,5600.0,1,0.0,Tarjeta,5600.0
+V0004,20/04/2024,Carla Mendez,,Individual,sucursal sur,Guadalajara,Jorge P.,Escritorio Ajustable,Muebles,4500.0,1,0.0,Tarjeta,4500.0
+V0005,2024-05-15,Sofia Herrera,,Individual,sucursal sur,Guadalajara,Jorge P.,Mouse Inalambrico,Accesorios,350.0,2,0.15,tarjeta,595.0
+V0006,07-04-2024,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Centro,CDMX,Mariana L.,Escritorio Ajustable,Muebles,4500.0,1,0.0,Tarjeta,4500.0
+V0007,2024-04-29,Ana Torres,ana.torres@mail.com,Empresarial,sucursal sur,Guadalajara,Jorge P.,Monitor 24 4K,Electronica,5600.0,5,0.05,Transferencia,26600.0
+V0008,04-17-2024,Constructora Lira,admin@lira.com,Empresarial,Sucursal Norte,Monterrey,Jorge P.,Silla Ergonomica,Muebles,3200.0,1,0.0,Tarjeta,3200.0
+V0009,05-18-2024,Carla Mendez,carla.mendez@mail.com,Individual,Sucursal Norte,Monterrey,Diego R.,Monitor 24 4K,Electronica,5600.0,2,0.15,TARJETA,9520.0
+V0010,17/01/2024,Grupo Delta SA,contacto@delta.com,Empresarial,Sucursal Centro,CDMX,Mariana L.,Silla Ergonomica,Muebles,3200.0,5,0.05,Transferencia,15200.0
+V0011,04-18-2024,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Norte ,Monterrey,Karla S.,Monitor 24 4K,Electronica,5600.0,1,0.05,tarjeta,
+V0012,10-14-2024,Constructora Lira,admin@lira.com,Empresarial,sucursal sur,Guadalajara,Mariana L.,Teclado Mecanico,Accesorios,1200.0,1,0.0,TARJETA,1200.0
+V0013,17/09/2024,Sofia Herrera,,Individual,sucursal sur,Guadalajara,Mariana L.,Escritorio Ajustable,Muebles,4500.0,1,0.0,Tarjeta,4500.0
+V0014,02/02/2024,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Norte,Monterrey,Karla S.,Teclado Mecanico,Accesorios,1200.0,2,0.05,TARJETA,2280.0
+V0015,02-28-2024,Constructora Lira,admin@lira.com,Empresarial,Sucursal Norte ,Monterrey,Jorge P.,Audifonos BT,Accesorios,890.0,3,0.1,Transferencia,2403.0
+V0016,2024-08-20,Comercial Aztek,ventas@aztek.com,Empresarial,sucursal sur,Guadalajara,Diego R.,Mouse Inalambrico,Accesorios,350.0,1,0.15,Transferencia,297.5
+V0017,2024-04-11,Carla Mendez,carla.mendez@mail.com,Individual,sucursal sur,Guadalajara,Karla S.,Mouse Inalambrico,Accesorios,350.0,2,0.0,Efectivo,700.0
+V0018,04/07/2024,Ana Torres,ana.torres@mail.com,Empresarial,SUCURSAL ESTE,Puebla,Jorge P.,Silla Ergonomica,Muebles,3200.0,1,0.0,Tarjeta,3200.0
+V0019,02-05-2024,Grupo Delta SA,contacto@delta.com,Empresarial,Sucursal Centro,CDMX,Karla S.,Mouse Inalambrico,Accesorios,350.0,2,0.0,Efectivo,700.0
+V0020,2024-08-04,Constructora Lira,admin@lira.com,Empresarial,sucursal sur,Guadalajara,Mariana L.,Teclado Mecanico,Accesorios,1200.0,5,0.1,Efectivo,5400.0
+V0021,2024-08-19,Pedro Gomez,pedro.g@mail.com,Individual,sucursal sur,Guadalajara,Diego R.,Escritorio Ajustable,Muebles,4500.0,2,0.0,Efectivo,9000.0
+V0022,04-27-2024,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Centro,CDMX,Mariana L.,Silla Ergonomica,Muebles,3200.0,2,0.0,Tarjeta,6400.0
+V0023,2024-06-18,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Norte,Monterrey,Jorge P.,Laptop Pro 15,Electronica,18500.0,1,0.1,Efectivo,16650.0
+V0024,10-19-2024,Pedro Gomez,pedro.g@mail.com,Individual,Sucursal Norte,Monterrey,Mariana L.,Webcam HD,Electronica,750.0,1,0.05,Efectivo,712.5
+V0025,08/08/2024,Constructora Lira,admin@lira.com,Empresarial,Sucursal Norte,Monterrey,Jorge P.,Escritorio Ajustable,Muebles,4500.0,1,0.05,tarjeta,4275.0
+V0026,2024-06-22,Constructora Lira,admin@lira.com,Empresarial,Sucursal Centro,CDMX,Jorge P.,Laptop Pro 15,Electronica,18500.0,2,0.0,Efectivo,37000.0
+V0027,22/05/2024,Grupo Delta SA,contacto@delta.com,Empresarial,Sucursal Norte,Monterrey,Diego R.,Webcam HD,Electronica,750.0,1,0.0,Tarjeta,750.0
+V0028,2024-01-08,Constructora Lira,admin@lira.com,Empresarial,Sucursal Centro,CDMX,Karla S.,Mouse Inalambrico,Accesorios,350.0,2,0.0,Efectivo,700.0
+V0029,2024-07-24,Sofia Herrera,,Individual,SUCURSAL ESTE,Puebla,Mariana L.,Webcam HD,Electronica,750.0,5,0.0,tarjeta,3750.0
+V0030,08-04-2024,Ana Torres,ana.torres@mail.com,Empresarial,sucursal sur,Guadalajara,Diego R.,Escritorio Ajustable,Muebles,4500.0,1,0.15,TARJETA,3825.0
+V0031,01-30-2024,Constructora Lira,admin@lira.com,Empresarial,Sucursal Norte,Monterrey,Jorge P.,Teclado Mecanico,Accesorios,1200.0,1,0.15,TARJETA,1020.0
+V0032,09-01-2024,Ana Torres,ana.torres@mail.com,Empresarial,Sucursal Centro,CDMX,Jorge P.,Silla Ergonomica,Muebles,3200.0,2,0.1,Efectivo,5760.0
+V0033,02-04-2024,Ana Torres,ana.torres@mail.com,Empresarial,Sucursal Norte,Monterrey,Jorge P.,Mouse Inalambrico,Accesorios,350.0,2,0.0,tarjeta,700.0
+V0034,11/02/2024,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Norte ,Monterrey,Mariana L.,Monitor 24 4K,Electronica,5600.0,1,0.15,TARJETA,4760.0
+V0035,2024-06-09,Comercial Aztek,ventas@aztek.com,Empresarial,Sucursal Norte,Monterrey,Karla S.,Audifonos BT,Accesorios,890.0,3,0.0,tarjeta,2670.0
+V0036,2024-02-07,Carla Mendez,carla.mendez@mail.com,Individual,SUCURSAL ESTE,Puebla,Jorge P.,Audifonos BT,Accesorios,890.0,5,0.05,TARJETA,4227.5
+V0037,2024-05-15,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Norte ,Monterrey,Mariana L.,Mouse Inalambrico,Accesorios,350.0,2,0.0,Tarjeta,700.0
+V0038,10-05-2024,Grupo Delta SA,contacto@delta.com,Empresarial,sucursal sur,Guadalajara,Mariana L.,Silla Ergonomica,Muebles,3200.0,2,0.0,TARJETA,6400.0
+V0039,2024-02-29,Ana Torres,ana.torres@mail.com,Empresarial,Sucursal Centro,CDMX,Mariana L.,Audifonos BT,Accesorios,890.0,1,0.15,TARJETA,756.5
+V0040,2024-06-24,Carla Mendez,carla.mendez@mail.com,Individual,sucursal sur,Guadalajara,Mariana L.,Audifonos BT,Accesorios,890.0,1,0.15,Transferencia,756.5
+V0041,04/08/2024,Constructora Lira,admin@lira.com,Empresarial,Sucursal Centro,CDMX,Jorge P.,Audifonos BT,Accesorios,890.0,3,0.0,Tarjeta,2670.0
+V0042,08-14-2024,Comercial Aztek,ventas@aztek.com,Empresarial,sucursal sur,Guadalajara,Mariana L.,Teclado Mecanico,Accesorios,1200.0,3,0.15,tarjeta,3060.0
+V0043,2024-10-06,Ana Torres,ana.torres@mail.com,Empresarial,Sucursal Centro,CDMX,Karla S.,Mouse Inalambrico,Accesorios,350.0,1,0.0,TARJETA,350.0
+V0044,2024-07-05,Carla Mendez,carla.mendez@mail.com,Individual,Sucursal Norte,Monterrey,Jorge P.,Escritorio Ajustable,Muebles,4500.0,1,0.0,Efectivo,4500.0
+V0045,07-27-2024,Grupo Delta SA,contacto@delta.com,Empresarial,sucursal sur,Guadalajara,Mariana L.,Mouse Inalambrico,Accesorios,350.0,5,0.15,Efectivo,1487.5
+V0006,07-04-2024,Luis Ramirez,luis.r@mail.com,Individual,Sucursal Centro,CDMX,Mariana L.,Escritorio Ajustable,Muebles,4500.0,1,0.0,Tarjeta,4500.0
